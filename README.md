@@ -1,2 +1,2 @@
-# PythonLearning
-LearningPython
+# Programming Learning
+# bt Python or c
