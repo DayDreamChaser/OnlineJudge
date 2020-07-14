@@ -1,2 +1,2 @@
 # Programming Learning
-# bt Python or c
+# by Python or C/C++ Java
