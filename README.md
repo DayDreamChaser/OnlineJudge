@@ -1,3 +1,3 @@
-# Programming Learning
-## by Python or C/C++ Java
-PTA or Leetcode
+## Programming Learning
+### by Python/C/Java
+Leetcode and PTA 
